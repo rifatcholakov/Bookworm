@@ -7,6 +7,7 @@ Custom user authentication system that controls users access to web resources us
 * log in
 * log out
 * limiting access to password-protected resources
+* Sessions and Cookies
 
 # Demo
 https://hidden-garden-27280.herokuapp.com/
