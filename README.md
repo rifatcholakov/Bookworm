@@ -3,10 +3,10 @@ Custom user authentication system that controls users access to web resources us
 <br/><br/>
 <img src="https://i.imgur.com/g62cD1Q.png" />
 # Features
-* sign up
-* log in
-* log out
-* limiting access to password-protected resources
+* Sign Up
+* Log In
+* Log Out
+* Limiting access to password-protected resources
 * Sessions and Cookies
 
 # Demo
